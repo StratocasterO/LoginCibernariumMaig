@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354450639733",
+    "project_id": "logincibernarium3",
+    "storage_bucket": "logincibernarium3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354450639733:android:a17be6e6f01fceda94613c",
+        "android_client_info": {
+          "package_name": "com.omarolmedoferrer.logincibernarium3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354450639733-uuo3ctgjrdj031p2u0so1ogdb6gsaf8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBimMrWyoedIku2ASkKFjlqufUFu8c_SgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354450639733-uuo3ctgjrdj031p2u0so1ogdb6gsaf8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
